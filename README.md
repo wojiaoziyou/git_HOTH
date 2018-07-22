@@ -1,1 +1,1 @@
-This is the project folder for the final project of ENG96C
+This is a learning project about git
