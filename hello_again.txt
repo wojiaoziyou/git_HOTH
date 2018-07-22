@@ -4,4 +4,4 @@ the second time of using github
 
 it's getting better
 
-let's try again.
+let's try SSH upload now.
